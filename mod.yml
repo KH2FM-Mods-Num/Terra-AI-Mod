@@ -1,0 +1,11 @@
+title: Terra Test
+description: Flinch count of 420 & mode change on hitting RV
+assets:
+- name: obj/B_EX420.mdlx
+  method: binarc
+  source:
+  - name: b_ex
+    type: bdx
+    method: bdscript
+    source:
+    - name: B_EX420.bdscript
